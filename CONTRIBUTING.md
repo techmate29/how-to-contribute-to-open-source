@@ -85,8 +85,8 @@ Issues can be submitted by anyone - seasoned developers or newbies.
 
 [What is a Pull Request?](https://yangsu.github.io/pull-request-tutorial/)
 
-If you decide to fix an issue, it's advisable to check the comment thread to see if there's somebody already working on a fix. If no one is working on it, kindly leave a comment stating that you intend to work on it. That way
-other people don't accidentally duplicate your effort.
+If you decide to fix an issue, it is advisable to check the comment thread to see if there's somebody already working on a fix. If no one is working on it, kindly leave a comment stating that you intend to work on it. That way
+other people don't accidentally duplicate your effort. 
 
 In a situation whereby somebody decides to fix an issue but doesn't follow up
 for a particular period of time, say 2-3 weeks, it's acceptable to still pick
@@ -99,8 +99,8 @@ pull request but do it in a descriptive manner.
 
 ### Helpful Resources
 
-- [Pro GIT Book](https://git-scm.com/book/en/v2)
+- [Pro GIT Book] (https://git-scm.com/book/en/v2)
 
-- [Try Git](https://try.github.io/)
+- [Try Git] (https://try.github.io/)
 
-- [Git/ Git Hub on Windows](https://www.youtube.com/watch?v=J_Clau1bYco)
+- [Git/ Git Hub on Windows] (https://www.youtube.com/watch?v=J_Clau1bYco)
